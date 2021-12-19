@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 45f1c9c42c5b742ffbd689440ad02f28
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ground: {instanceID: 0}
+  - joystick: {instanceID: 0}
+  - player: {instanceID: 0}
+  - bullet: {fileID: 1778407902231429851, guid: 875e9138e1fc543148853edb6f524010,
+      type: 3}
+  - attackPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
